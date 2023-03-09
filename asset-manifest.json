@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TorWotan/react_microline-page.git/static/css/main.bba7c994.css",
-    "main.js": "/TorWotan/react_microline-page.git/static/js/main.d34ff2c5.js",
-    "index.html": "/TorWotan/react_microline-page.git/index.html",
-    "main.bba7c994.css.map": "/TorWotan/react_microline-page.git/static/css/main.bba7c994.css.map",
-    "main.d34ff2c5.js.map": "/TorWotan/react_microline-page.git/static/js/main.d34ff2c5.js.map"
+    "main.css": "/TorWotan/react_microline.git/static/css/main.bba7c994.css",
+    "main.js": "/TorWotan/react_microline.git/static/js/main.d34ff2c5.js",
+    "index.html": "/TorWotan/react_microline.git/index.html",
+    "main.bba7c994.css.map": "/TorWotan/react_microline.git/static/css/main.bba7c994.css.map",
+    "main.d34ff2c5.js.map": "/TorWotan/react_microline.git/static/js/main.d34ff2c5.js.map"
   },
   "entrypoints": [
     "static/css/main.bba7c994.css",
